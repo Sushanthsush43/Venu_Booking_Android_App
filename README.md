@@ -1,5 +1,5 @@
-### Venu_Booking_Android_App
-------- User Guide -------
+# Venu_Booking_Android_App
+##------- User Guide -------
 User and admin-side both are in one App itself.
 
 For accessing admin-side use email as "admin" and password as "pass" in login page.
